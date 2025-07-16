@@ -1,0 +1,21 @@
+✅ SQL — Aggregate Functions:
+Today I practiced the backbone of data reporting — aggregate functions:
+
+COUNT — how many rows?
+
+SUM — total sales, costs, anything.
+
+AVG — find averages.
+
+MAX & MIN — best & worst performers.
+Plus, I grouped data using GROUP BY — so numbers mean something when split by category, month, or product.
+
+This is how raw tables become useful dashboards!
+
+✅ Python — Loops:
+Wrote programs using loops:
+
+for loops — repeat tasks cleanly
+
+while loops — run until a condition changes
+Loops = automate repetitive work, from cleaning rows to processing lists.
