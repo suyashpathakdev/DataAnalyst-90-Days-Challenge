@@ -1,0 +1,23 @@
+✅ SQL — Window Value Functions:
+These functions let me access data from other rows — without any joins. It’s how advanced analysts spot trends, changes, and context.
+I practiced:
+
+LEAD() — peek at the next row’s value
+
+LAG() — look back at the previous row
+
+FIRST_VALUE() — get the first value in a partition
+
+LAST_VALUE() — access the last value in a group
+
+This logic is used in trend detection, churn analysis, sales comparisons, and time-series analysis.
+
+ ✅ Python — Modules:
+Today’s focus: writing clean, reusable code. I worked on:
+
+Creating custom modules
+
+Accessing functions from modules
+
+Importing modules the right way (import, from, as)
+This is the foundation for scalable code — the kind used in real software and analysis pipelines.
